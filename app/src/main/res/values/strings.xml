@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game App</string>
+    <string name="app_launch">Press Play to Begin</string>
+    <string name="app_sequence">Watch the Sequence</string>
+    <string name="app_playing">Copy the Sequence</string>
+    <string name="level_Completed">Level Complete</string>
+</resources>
